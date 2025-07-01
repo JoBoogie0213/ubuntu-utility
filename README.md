@@ -1,5 +1,3 @@
-
-Ubuntu Utility
 Ubuntu Utility is a tool designed for educational purposes to demonstrate system access, management, and customization on Ubuntu virtual machines (VMs).
 
 ⚠️ Disclaimer: This tool is for educational use only. Do not use it on production systems. The creator is not responsible for any damage caused by misuse of this tool.
